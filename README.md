@@ -14,3 +14,6 @@ hyprlock
 cava
 ![screenshot](https://github.com/kreazes1/dots-for-hyprland/blob/main/screenshots/cava.png)
 ---
+wofi
+![screenshot](https://github.com/kreazes1/dots-for-hyprland/blob/main/screenshots/wofi.png)
+---
