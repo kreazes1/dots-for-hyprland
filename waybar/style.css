@@ -1,0 +1,120 @@
+* {
+  min-height: 0;
+  min-width: 0;
+  font-family: Lexend, "JetBrainsMono NFP";
+  font-size: 16px;
+  font-weight: 800;
+}
+
+window#waybar {
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  /* background-color: #1e1e2e; */
+  /* background-color: #181825; */
+  background-color: #11111b;
+  /* background-color: rgba(24, 24, 37, 0.6); */
+}
+
+#workspaces button {
+  padding: 0.3rem 0.6rem;
+  margin: 0.4rem 0.25rem;
+  border-radius: 6px;
+  /* background-color: #181825; */
+  background-color: #11111b;
+  color: #cdd6f4;
+}
+
+#workspaces button:hover {
+  color: #1e1e2e;
+  background-color: #cdd6f4;
+}
+
+#workspaces button.active {
+  background-color: #26263b;
+  color: #cdd6f4;
+}
+
+#workspaces button.urgent {
+  background-color: #cdd6f4;
+  color: #f38ba8;
+}
+
+#clock,
+#pulseaudio,
+#custom-logo,
+#custom-power,
+#custom-spotify,
+#custom-notification,
+#cpu,
+#tray,
+#memory,
+#window,
+#mpris {
+  padding: 0.3rem 0.6rem;
+  margin: 0.4rem 0.25rem;
+  border-radius: 6px;
+  /* background-color: #181825; */
+  background-color: #1e1e2e;
+}
+
+#mpris.playing {
+  color: #cdd6f4;
+}
+
+#mpris.paused {
+  color: #cdd6f4;
+}
+
+#custom-sep {
+  padding: 0px;
+  color: #cdd6f4;
+}
+
+window#waybar.empty #window {
+  background-color: transparent;
+}
+
+#cpu {
+  color: #cdd6f4;
+}
+
+#memory {
+  color: #cdd6f4;
+}
+
+#clock {
+  color: #cdd6f4;
+}
+
+#clock.simpleclock {
+  color: #cdd6f4;
+}
+
+#window {
+  color: #cdd6f4;
+}
+
+#pulseaudio {
+  color: #cdd6f4;
+}
+
+#pulseaudio.muted {
+  color: #cdd6f4;
+}
+
+#custom-logo {
+  color: #cdd6f4;
+}
+
+#custom-power {
+  color: #cdd6f4;
+}
+
+#custom-kb_layout {
+	color: #cdd6f4;
+}
+
+tooltip {
+  background-color: #181825;
+  border: 2px solid #cdd6f4;
+}
