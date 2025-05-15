@@ -1,1 +1,1 @@
-# dots-for-hyprland
+Install any nerd fonts
