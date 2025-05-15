@@ -1,3 +1,16 @@
 ---
-![screenshot](https://github.com/kreazes1/dots-for-hyprland/blob/main/screenshot.png)
+ricing
+![screenshot](https://github.com/kreazes1/dots-for-hyprland/blob/main/screenshots/ricing.png)
+---
+waybar
+![screenshot](https://github.com/kreazes1/dots-for-hyprland/blob/main/screenshots/waybar.png)
+---
+fastfetch
+![screenshot](https://github.com/kreazes1/dots-for-hyprland/blob/main/screenshots/fastfetch.png)
+---
+hyprlock
+![screenshot](https://github.com/kreazes1/dots-for-hyprland/blob/main/screenshots/hyprlock.png)
+---
+cava
+![screenshot](https://github.com/kreazes1/dots-for-hyprland/blob/main/screenshots/cava.png)
 ---
